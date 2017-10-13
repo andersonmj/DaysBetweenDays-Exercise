@@ -1,3 +1,2 @@
 # DaysBetweenDays-Exercise
-A simple exercise to calculate number of days between dates. Includes leap years. 
-Used Python
+This is an exercise to calculate number of days between dates in a calendar year including leap years.
